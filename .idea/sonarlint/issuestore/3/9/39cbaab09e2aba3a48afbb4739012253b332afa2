@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åµé¼
+y	java:S116"XRename this field "imdb_title_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÍİ˜ıÿÿÿÿ8İÅ‘…1
+z	java:S116"YRename this field "original_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢àÊ¤ıÿÿÿÿ8İÅ‘…1
+z	java:S116"YRename this field "date_published" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õñµ›ûÿÿÿÿ8İÅ‘…1
+y	java:S116*"]Rename this field "production_company" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æîÇñ8İÅ‘…1
+o	java:S1160"SRename this field "avg_vote" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÚ™é8İÅ‘…1
+w	java:S1166"[Rename this field "usa_gross_income" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äü­µ8İÅ‘…1
+	java:S1168"`Rename this field "worlwide_gross_income" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍˆÍôÿÿÿÿÿ8İÅ‘…1
+y	java:S116<"]Rename this field "reviews_from_users" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰„ïÿ8İÅ‘…1
+{	java:S116>"_Rename this field "reviews_from_critics" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤£® 8İÅ‘…1
+N
+java:S1172@",Remove this unused method parameter "title".(¤Ó¸Çùÿÿÿÿ8ãÅ‘…1

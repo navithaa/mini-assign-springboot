@@ -1,0 +1,53 @@
+
+g	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÁÉ‘…1
+|
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï­±‘ùÿÿÿÿ8 ÁÉ‘…1
+k
+java:S1192ş"HDefine a constant instead of duplicating this literal "country" 3 times.(ÔÛ•¶øÿÿÿÿ8¨ÁÉ‘…1
+d
+java:S1192"GDefine a constant instead of duplicating this literal "mumbai" 3 times.(§º“‘8¨ÁÉ‘…1
+q
+java:S1192Á"SDefine a constant instead of duplicating this literal "reviews_from_users" 3 times.( Ñ€Ù8©ÁÉ‘…1
+d
+java:S1192–"FDefine a constant instead of duplicating this literal "title" 3 times.(½Ë÷„8©ÁÉ‘…1
+y
+java:S1192ˆ"VDefine a constant instead of duplicating this literal "http://localhost:8000" 3 times.(§ÊÜêşÿÿÿÿ8©ÁÉ‘…1
+e
+java:S1192"GDefine a constant instead of duplicating this literal "movies" 3 times.(å¶±•8©ÁÉ‘…1
+h
+java:S1192}"FDefine a constant instead of duplicating this literal "12345" 6 times.(§Ï¸ùÿÿÿÿÿ8©ÁÉ‘…1
+j
+java:S1192ÿ"GDefine a constant instead of duplicating this literal "budget" 5 times.(õûğ“ûÿÿÿÿ8ªÁÉ‘…1
+s	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ°€àşÿÿÿÿ8­ÁÉ‘…1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´èÎğıÿÿÿÿ
+d
+java:S2095I"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(­™¾×8ŒÅÉ‘…1
+D
+java:S1905/"'Remove this unnecessary cast to "List".(Ç½å‰8ú€Ô“…1
+V
+java:S11173"9Rename "movie" which hides the field declared at line 32.(Âç¯¯8™ÅÉ‘…1
+^
+java:S3457<"AFormat specifiers should be used instead of string concatenation.(¯í¶ò8šÅÉ‘…1
+W
+java:S1854C":Remove this useless assignment to local variable "record".(®ÕŞÅ8¡ÅÉ‘…1
+W
+java:S6213C":Rename this variable to not match a restricted identifier.(®ÕŞÅ8¤ÅÉ‘…1
+H
+java:S1481C"+Remove this unused "record" local variable.(®ÕŞÅ8¦ÅÉ‘…1
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(½î¬ëüÿÿÿÿ8ªÅÉ‘…1
+c
+java:S3457w"AFormat specifiers should be used instead of string concatenation.(¤òŸùÿÿÿÿ8¯ÅÉ‘…1
+T
+java:S6437‚"6Revoke and change this password, as it is compromised.(êñÃ¾8µÅÉ‘…1
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(Òà´Ç8½ÅÉ‘…1
+T
+java:S6437«"6Revoke and change this password, as it is compromised.(êñÃ¾8ÄÅÉ‘…1
+V	java:S106É"9Replace this use of System.out or System.err by a logger.(Òà´Ç8ÉÅÉ‘…1
+V	java:S106×"9Replace this use of System.out or System.err by a logger.(Òà´Ç8ÍÅÉ‘…1
+T
+java:S6437ç"6Revoke and change this password, as it is compromised.(êñÃ¾8ÖÅÉ‘…1
+p
+java:S6204‚"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ØÅÉ‘…1
+[
+java:S6353‰"=Use concise character class syntax '\\D' instead of '[^0-9]'.(šÔÌ³8äÅÉ‘…1
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(©ÛÆ²8åÅÉ‘…1
